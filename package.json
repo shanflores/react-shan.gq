@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "homepage": "https://shanflores.github.io/react-flores.gq",
+=======
+  "homepage": "https://shanflores.github.io/react-shan.gq",
+>>>>>>> f9bf66c19b14458b8edf57282c6d70585c03a8a3
   "name": "flores",
   "version": "0.1.0",
   "private": true,

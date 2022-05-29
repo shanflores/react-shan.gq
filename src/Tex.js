@@ -4,7 +4,7 @@ export default function Tex() {
   return (
     
       <div className="tx">
-    <h1>welcome to shan flores landing page!</h1>
+    <h1>welcome to shan flores landing page! nice</h1>
     </div>
   )
 }
