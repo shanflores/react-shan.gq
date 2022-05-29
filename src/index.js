@@ -2,13 +2,17 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
+import Head from './Head'
+import Bg from './Bg'
+import Tex from './Tex'
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
+  <>  
+  <Head />
+  <Tex />
+  </>
 );
 
 // If you want to start measuring performance in your app, pass a function
