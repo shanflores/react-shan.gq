@@ -6,6 +6,5 @@ export default function Tex() {
       <div className="tx">
     <h1>welcome to shan flores landing page!</h1>
     </div>
-    
   )
 }
